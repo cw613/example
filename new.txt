@@ -1,2 +1,2 @@
 just for see the result in remote repository
-only branch 'dev' can see this line
+merge brach 'dev' to 'master'
